@@ -1,0 +1,2 @@
+# Python_WeChat_Black
+基于itchat写的一个检测微信好友有没有删你的小工具。
